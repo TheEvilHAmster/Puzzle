@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25cc1df7-2912-470f-b2c3-56284929783e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Puzzle/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3900">
+              <caret line="275" column="30" lean-forward="true" selection-start-line="275" selection-start-column="30" selection-end-line="275" selection-end-column="30" />
+              <folding>
+                <marker date="1551777794136" expanded="false" signature="6:114" ph="..." />
+                <marker date="1551777794136" expanded="true" signature="133:7967" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="158:4781" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="369:414" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="445:1254" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="569:1211" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="672:1197" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="1296:1922" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="1635:1910" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="1713:1835" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="1950:2928" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="2030:2488" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="2089:2239" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="2324:2432" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="2529:2598" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="2978:4773" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="3020:4762" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="3105:3426" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="3537:3860" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="3961:4284" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="4396:4720" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="4803:4928" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="4872:4922" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="4944:7796" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="5073:6439" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="5306:5733" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="5381:5545" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="5570:5715" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="5754:5883" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="6114:6429" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="6244:6415" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="6503:6947" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="6565:6914" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="6650:6883" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="6761:6864" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="6980:7789" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="7074:7778" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="7814:7963" ph="{...}" />
+                <marker date="1551777794136" expanded="true" signature="7868:7953" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Puzzle/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Puzzle/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-478" />
+    <option name="y" value="-40" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Puzzle/bin/Debug/Puzzle.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Puzzle/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Puzzle/Puzzle.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v3.5" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25cc1df7-2912-470f-b2c3-56284929783e" name="Default Changelist" comment="" />
+      <created>1551777713207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551777713207</updated>
+      <workItem from="1551777715972" duration="2697000" />
+      <workItem from="1551781542622" duration="776000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3473000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17408907" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.9396092" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.3285968" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Puzzle/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3900">
+          <caret line="275" column="30" lean-forward="true" selection-start-line="275" selection-start-column="30" selection-end-line="275" selection-end-column="30" />
+          <folding>
+            <marker date="1551777794136" expanded="false" signature="6:114" ph="..." />
+            <marker date="1551777794136" expanded="true" signature="133:7967" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="158:4781" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="369:414" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="445:1254" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="569:1211" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="672:1197" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="1296:1922" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="1635:1910" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="1713:1835" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="1950:2928" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="2030:2488" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="2089:2239" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="2324:2432" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="2529:2598" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="2978:4773" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="3020:4762" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="3105:3426" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="3537:3860" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="3961:4284" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="4396:4720" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="4803:4928" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="4872:4922" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="4944:7796" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="5073:6439" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="5306:5733" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="5381:5545" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="5570:5715" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="5754:5883" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="6114:6429" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="6244:6415" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="6503:6947" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="6565:6914" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="6650:6883" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="6761:6864" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="6980:7789" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="7074:7778" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="7814:7963" ph="{...}" />
+            <marker date="1551777794136" expanded="true" signature="7868:7953" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

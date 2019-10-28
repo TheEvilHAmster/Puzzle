@@ -1,0 +1,10 @@
+C:\Users\William\RiderProjects\Puzzle\Puzzle\obj\Debug\Puzzle.csprojResolveAssemblyReference.cache
+C:\Users\William\RiderProjects\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+C:\Users\William\RiderProjects\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+C:\Users\William\RiderProjects\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+C:\Users\William\RiderProjects\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
+C:\Users\William\Desktop\MDH\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+C:\Users\William\Desktop\MDH\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+C:\Users\William\Desktop\MDH\Puzzle\Puzzle\obj\Debug\Puzzle.csprojAssemblyReference.cache
+C:\Users\William\Desktop\MDH\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+C:\Users\William\Desktop\MDH\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
